@@ -33,8 +33,3 @@ Tools & Platforms      STS / VS Code, Postman, Git, GitHub
 
 Sangram Rajpoot
 💼 Aspiring Software Engineer | Full Stack Developer
-🔗 LinkedIn
-
-🌐 Portfolio Website
-
-📧 rajputsanju2622@gmail.com
