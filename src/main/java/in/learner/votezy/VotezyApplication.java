@@ -8,6 +8,11 @@ public class VotezyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VotezyApplication.class, args);
+
+
+		System.out.println(" ");
+		
+		System.out.println(" started ....");
 	}
 
 }
